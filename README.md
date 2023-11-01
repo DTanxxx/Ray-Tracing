@@ -1,3 +1,3 @@
 # Raytracing
 
-This is a learning project for Peter Shirley's Raytracing in One Weekend series!
+This is a learning project for Peter Shirley's Ray Tracing in One Weekend series!
